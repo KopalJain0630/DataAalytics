@@ -1,4 +1,4 @@
-# DataAalytics
+# DataAnalytics
 My part of a group project, which was mostly related to Data Visualisation using python.
 This has been done using seaborn, matplotlib, pandas, numpy, and NLP.
 I have cleaned the text and done exploratory data analysis on it using NLP
